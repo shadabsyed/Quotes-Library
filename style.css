@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(131, 144, 158);
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 50px 0 50px;
+  min-height: 80vh;
+}
+
+p {
+  font-size: 30px;
+}
+
+button {
+  padding: 20px 50px;
+  font-size: 30px;
+  background: linear-gradient(lightgreen, rgb(13, 156, 13));
+  cursor: pointer;
+}
